@@ -8,7 +8,7 @@ def line(name)
     #   name_array << "#{index}. #{name}"
     # end
     puts "The line is currently empty."
-  else
+  elsif katz_deli.count == 3
     puts "people"
   end
 end
