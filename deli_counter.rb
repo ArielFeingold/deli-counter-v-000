@@ -2,7 +2,7 @@
 katz_deli = []
 
 def line(name)
-  if katz_deli.count == []
+  if katz_deli == []
     puts "The line is currently empty."
   else
     puts "line"
