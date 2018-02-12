@@ -1,7 +1,7 @@
 # Write your code here.
 katz_deli = []
 
-def line(peace)
+def line(katz_deli)
   if katz_deli.count != 0
     name_array = []
     katz_deli.each_with_index do |name, index|
